@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(cut -b 1 An\ Acrostic | tr --delete "\n")
+echo $(cut -b 1 | tr --delete "\n")
